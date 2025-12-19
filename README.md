@@ -26,7 +26,7 @@ https://public.tableau.com/app/profile/israel.mumay/viz/Playersinsightsfifa22/Pl
 2. Open the `.twbx` file in Tableau
 3. Interact with the visualizations on Tableau Public
 
-## 📄License
+## License
 This project is open-source and available for educational use.
 
 
